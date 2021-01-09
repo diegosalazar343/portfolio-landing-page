@@ -8,7 +8,7 @@
 _This project was intended to display our knowledge and skills that we developed in the past week. For example, in this project I used the following HTML tags: p, h, ul, ol, li,em,strong, a, img, div, and span. I also included a custom-made stylesheet that use cascading, the box model, and floats._
 
 ## Setup
-* _Follow the link https:_
+* _Follow the link https://diegosalazar343.github.io/portfolio-landing-page/_
 * _Open and View_
 
 ## Technologies Used
