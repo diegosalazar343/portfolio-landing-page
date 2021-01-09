@@ -1,0 +1,32 @@
+.head {
+  text-align: center;
+  position: relative;
+}
+
+.middle h2 {
+  text-align: center;
+  position: relative;
+}
+
+.middle {
+  color:antiquewhite;
+}
+.photo {
+  width: 33.33%;
+  float: left;
+  padding: 10px;
+  height: 500px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.bootcamp {
+  color: lightgreen;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
